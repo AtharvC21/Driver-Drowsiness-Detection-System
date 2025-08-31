@@ -39,4 +39,4 @@ This is a Python-based real-time driver drowsiness detection project using a web
    # Activate:
    venv\Scripts\activate   (on Windows)
    
-# Driver-Drowsiness-Detection - Nikita
+
